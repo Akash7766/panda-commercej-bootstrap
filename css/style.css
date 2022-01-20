@@ -1,0 +1,21 @@
+.panda-bg-primary {
+  background-color: #fceae8;
+}
+.bg-oliv {
+  background-color: orchid;
+}
+.carousel {
+  margin-top: 120px !important;
+}
+.catagory,
+.backpack {
+  margin-bottom: 70px;
+  margin-top: 70px;
+}
+.catagory img {
+  width: 100px;
+}
+.subscribe {
+  height: 250px;
+  margin-bottom: 100px;
+}
